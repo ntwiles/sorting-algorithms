@@ -4,7 +4,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 using SortingAlgorithms.Sorting;
 
-namespace SortingAlgorithmTests
+namespace SortingAlgorithmTests.Sorting
 {
     [TestClass]
     public abstract class SortTests
@@ -28,8 +28,6 @@ namespace SortingAlgorithmTests
         [DataRow(new int[] { 2, 3, -4, 5 }, new int[] { -4, 2, 3, 5 })]
         public void SortTest(int[] input, int[] expected)
         {
-            int[] original = (int[])input.Clone();
-
             int[] actual = sut.Sort(input);
 
             string errorMessage = $"\n{sut.ToString()}";

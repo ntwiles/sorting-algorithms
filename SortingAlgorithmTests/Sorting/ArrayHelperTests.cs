@@ -2,7 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 using SortingAlgorithms.Sorting;
 
-namespace SortingAlgorithmTests
+namespace SortingAlgorithmTests.Sorting
 {
     [TestClass]
     public class ArrayHelperTests

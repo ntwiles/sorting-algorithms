@@ -5668,11 +5668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithmTests\\SortingAlgorithmTests.csproj",
+      "projectUniqueName": "D:\\OneDrive\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithmTests\\SortingAlgorithmTests.csproj",
       "projectName": "SortingAlgorithmTests",
-      "projectPath": "D:\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithmTests\\SortingAlgorithmTests.csproj",
+      "projectPath": "D:\\OneDrive\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithmTests\\SortingAlgorithmTests.csproj",
       "packagesPath": "C:\\Users\\ntwil\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithmTests\\obj\\",
+      "outputPath": "D:\\OneDrive\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithmTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5691,8 +5691,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj": {
-              "projectPath": "D:\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj"
+            "D:\\OneDrive\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj": {
+              "projectPath": "D:\\OneDrive\\Development\\C#\\Challenges\\SortingAlgorithms\\SortingAlgorithms\\SortingAlgorithms.csproj"
             }
           }
         }
